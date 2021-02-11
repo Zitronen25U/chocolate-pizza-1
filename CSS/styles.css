@@ -1,7 +1,9 @@
-header{
+header div{
   float: right;
 }
 
-header div{
-  
+header div a{
+  float: left;
+  padding: 2px;
+
 }
