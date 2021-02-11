@@ -1,9 +1,24 @@
-header div{
-  float: right;
+.headerLogo{
+  display: inline-block;
+  border: 1px solid black;
+  margin: auto;
+  overflow: auto;
 }
 
-header div a{
-  float: left;
-  padding: 2px;
+.headerText{
+  display: inline-block;
+  padding-left: 1px;
+  margin-left: 1px;
+  margin-right: 350px;
+  border: 1px solid black; 
+  overflow: auto;
+}
 
+.first-line {
+  border: 1px solid black;
+  overflow: auto;
+  margin-top: 10px;
+  /* display: inline-block; */
+  /* margin-left: 800px; */
+  float: right;
 }
