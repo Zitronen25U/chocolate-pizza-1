@@ -1,24 +1,49 @@
+/*  */
+/* Head */
+/*  */
+div{
+  /* background-size: 100%; */
+}
 .headerLogo{
   display: inline-block;
-  border: 1px solid black;
-  margin: auto;
+  margin-left: 25%;
   overflow: auto;
 }
 
 .headerText{
   display: inline-block;
-  padding-left: 1px;
   margin-left: 1px;
-  margin-right: 350px;
-  border: 1px solid black; 
-  overflow: auto;
 }
 
 .first-line {
-  border: 1px solid black;
-  overflow: auto;
-  margin-top: 10px;
-  /* display: inline-block; */
-  /* margin-left: 800px; */
+  margin-top: 5px;
+  margin-right: 25%;
   float: right;
+}
+
+#headerBorder{
+  border: 5px dashed grey;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+/*  */
+/* Main */
+/*  */
+
+.mainDiv{
+  margin-top: 50px;
+  margin-left: 25%;
+}
+
+.mainImg{
+  margin-left: 25%;
+}
+
+.smallPrinterImg{
+  margin-left: 80%;
+}
+#para1 {
+  margin-left: 25%;
+  margin-right: 27%;
 }
